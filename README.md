@@ -77,7 +77,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 
-git clone https://github.com/moparthimanasa/REAL-TIME-CHAT-APPLICATION.git
+https://github.com/SravanthiChouturi/REAL-TIME-CHAT-APPLICATION.git
 
 ### Backend Setup (Node.js + Socket.IO)
 
